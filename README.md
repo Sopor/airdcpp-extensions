@@ -1,2 +1,2 @@
-# airdcpp-extensions
+# AirDC++ extensions
 Extensions for AirDC++
