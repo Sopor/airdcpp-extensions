@@ -1,6 +1,3 @@
-# AirDC++ extensions
-Extensions for AirDC++
-
 ## How to install an extension in AirDC++
 1. Open the folder for the extension you want to install
 2. Click on the ```.tgz``` file
