@@ -8,6 +8,6 @@
 
 <details><summary>Video instructions</summary>
 
-https://github.com/user-attachments/assets/7df4417a-0353-435d-8491-bb1fdd1b680e
+https://github.com/user-attachments/assets/4ca33d75-bd90-4ae3-8846-6d6c83a74a77
 
 </details>
