@@ -15,10 +15,6 @@ do it here, or leave it empty for auto-detect.
 * If you use more than one nickname, the name of the file list may differ<br>
 depending on which hubs you are connected to when the backup starts.
 
-### <ins>Share profile token to back up (leave empty to back up every profile)</ins>
-* To get your profile token you need to open your DCPlusPlus.xml file and<br>
-search for ```Token=``` and type the number here (you can only add one token).
-
 ### <ins>Skip these virtual folders (comma-separated)</ins>
 * If you do not want to include one or more of your virtual folders you can add them here.
 * You will find your virtual folders in ```Settings / Sharing / Shared directories```.
@@ -37,6 +33,6 @@ if you create a backup every day and you have a large share.
 
 <details><summary>Click to view Configure</summary>
 
-<img width="619" height="758" alt="image" src="https://github.com/user-attachments/assets/ae0ec2f0-3682-4c8e-9c23-a478e6bf0d07" />
+<img width="614" height="682" alt="image" src="https://github.com/user-attachments/assets/89138665-ff6a-4898-b5ff-f792d2776aff" />
 
 </details>
