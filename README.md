@@ -11,3 +11,6 @@
 https://github.com/user-attachments/assets/4ca33d75-bd90-4ae3-8846-6d6c83a74a77
 
 </details>
+
+## Now there is another faster and better way to install and update extensions!
+### It is called [airdcpp-tiny-fileserver](https://github.com/Sopor/airdcpp-extensions/tree/main/airdcpp-tiny-fileserver)
